@@ -1,0 +1,4085 @@
+16:49:59: Creating resource group General
+16:49:59: Creating resource group Internal
+16:49:59: Creating resource group Autodetect
+16:49:59: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:49:59: Registering ResourceManager for type Material
+16:49:59: Registering ResourceManager for type Mesh
+16:49:59: Registering ResourceManager for type Skeleton
+16:49:59: MovableObjectFactory for type 'ParticleSystem' registered.
+16:49:59: ArchiveFactory for archive type FileSystem registered.
+16:49:59: ArchiveFactory for archive type Zip registered.
+16:49:59: ArchiveFactory for archive type EmbeddedZip registered.
+16:49:59: DDS codec registering
+16:49:59: FreeImage version: 3.15.3
+16:49:59: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+16:49:59: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic,3fr,arw,bay,bmq,cap,cine,cr2,crw,cs1,dc2,dcr,drf,dsc,dng,erf,fff,ia,iiq,k25,kc2,kdc,mdc,mef,mos,mrw,nef,nrw,orf,pef,ptx,pxn,qtk,raf,raw,rdc,rw2,rwl,rwz,sr2,srf,srw,sti
+16:49:59: Registering ResourceManager for type HighLevelGpuProgram
+16:49:59: Registering ResourceManager for type Compositor
+16:49:59: MovableObjectFactory for type 'Entity' registered.
+16:49:59: MovableObjectFactory for type 'Light' registered.
+16:49:59: MovableObjectFactory for type 'BillboardSet' registered.
+16:49:59: MovableObjectFactory for type 'ManualObject' registered.
+16:49:59: MovableObjectFactory for type 'BillboardChain' registered.
+16:49:59: MovableObjectFactory for type 'RibbonTrail' registered.
+16:49:59: Loading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\RenderSystem_Direct3D9_d
+16:49:59: Installing plugin: D3D9 RenderSystem
+16:49:59: D3D9 : Direct3D9 Rendering Subsystem created.
+16:50:00: D3D9: Driver Detection Starts
+16:50:00: D3D9: Driver Detection Ends
+16:50:00: Plugin successfully installed
+16:50:00: Loading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\RenderSystem_Direct3D11_d
+16:50:00: Installing plugin: D3D11 RenderSystem
+16:50:00: D3D11 : Direct3D11 Rendering Subsystem created.
+16:50:00: D3D11: Driver Detection Starts
+16:50:00: D3D11: Driver Detection Ends
+16:50:00: Plugin successfully installed
+16:50:00: Loading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\RenderSystem_GL_d
+16:50:00: Installing plugin: GL RenderSystem
+16:50:00: OpenGL Rendering Subsystem created.
+16:50:00: Plugin successfully installed
+16:50:00: Loading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\Plugin_ParticleFX_d
+16:50:00: Installing plugin: ParticleFX
+16:50:00: Particle Emitter Type 'Point' registered
+16:50:00: Particle Emitter Type 'Box' registered
+16:50:00: Particle Emitter Type 'Ellipsoid' registered
+16:50:00: Particle Emitter Type 'Cylinder' registered
+16:50:00: Particle Emitter Type 'Ring' registered
+16:50:00: Particle Emitter Type 'HollowEllipsoid' registered
+16:50:00: Particle Affector Type 'LinearForce' registered
+16:50:00: Particle Affector Type 'ColourFader' registered
+16:50:00: Particle Affector Type 'ColourFader2' registered
+16:50:00: Particle Affector Type 'ColourImage' registered
+16:50:00: Particle Affector Type 'ColourInterpolator' registered
+16:50:00: Particle Affector Type 'Scaler' registered
+16:50:00: Particle Affector Type 'Rotator' registered
+16:50:00: Particle Affector Type 'DirectionRandomiser' registered
+16:50:00: Particle Affector Type 'DeflectorPlane' registered
+16:50:00: Plugin successfully installed
+16:50:00: Loading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\Plugin_BSPSceneManager_d
+16:50:00: Installing plugin: BSP Scene Manager
+16:50:00: Plugin successfully installed
+16:50:00: Loading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\Plugin_CgProgramManager_d
+16:50:00: Installing plugin: Cg Program Manager
+16:50:00: Plugin successfully installed
+16:50:00: Loading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\Plugin_PCZSceneManager_d
+16:50:00: Installing plugin: Portal Connected Zone Scene Manager
+16:50:00: PCZone Factory Type 'ZoneType_Default' registered
+16:50:00: Plugin successfully installed
+16:50:00: Loading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\Plugin_OctreeZone_d
+16:50:00: Installing plugin: Octree Zone Factory
+16:50:00: Plugin successfully installed
+16:50:00: Loading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\Plugin_OctreeSceneManager_d
+16:50:00: Installing plugin: Octree Scene Manager
+16:50:00: Plugin successfully installed
+16:50:00: *-*-* OGRE Initialising
+16:50:00: *-*-* Version 1.9.0 (Ghadamon)
+16:50:00: Creating resource group Essential
+16:50:00: Added resource location '../media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+16:50:00: Added resource location '../media' of type 'FileSystem' to resource group 'General'
+16:50:00: Added resource location '../media/materials/scripts' of type 'FileSystem' to resource group 'General'
+16:50:00: Added resource location '../media/materials/textures' of type 'FileSystem' to resource group 'General'
+16:50:00: Added resource location '../media/models' of type 'FileSystem' to resource group 'General'
+16:50:00: D3D11 : RenderSystem Option: Allow NVPerfHUD = No
+16:50:00: D3D11 : RenderSystem Option: Driver type = Hardware
+16:50:00: D3D11 : RenderSystem Option: FSAA = 0
+16:50:00: D3D11 : RenderSystem Option: Floating-point mode = Fastest
+16:50:00: D3D11 : RenderSystem Option: Full Screen = Yes
+16:50:00: D3D11 : RenderSystem Option: Information Queue Exceptions Bottom Level = Info (exception on any message)
+16:50:00: D3D11 : RenderSystem Option: Max Requested Feature Levels = 11.0
+16:50:00: D3D11 : RenderSystem Option: Min Requested Feature Levels = 9.1
+16:50:00: D3D11 : RenderSystem Option: Rendering Device = NVIDIA GeForce GT 530
+16:50:00: D3D11 : RenderSystem Option: VSync = No
+16:50:00: D3D11 : RenderSystem Option: VSync Interval = 1
+16:50:00: D3D11 : RenderSystem Option: Video Mode = 800 x 600 @ 32-bit colour
+16:50:00: D3D11 : RenderSystem Option: sRGB Gamma Conversion = No
+16:50:00: D3D9 : RenderSystem Option: Allow DirectX9Ex = No
+16:50:00: D3D9 : RenderSystem Option: Allow NVPerfHUD = No
+16:50:00: D3D9 : RenderSystem Option: FSAA = 0
+16:50:00: D3D9 : RenderSystem Option: Fixed Pipeline Enabled = Yes
+16:50:00: D3D9 : RenderSystem Option: Floating-point mode = Fastest
+16:50:00: D3D9 : RenderSystem Option: Full Screen = No
+16:50:00: D3D9 : RenderSystem Option: Multi device memory hint = Use minimum system memory
+16:50:00: D3D9 : RenderSystem Option: Rendering Device = Monitor-1-NVIDIA GeForce GT 530
+16:50:00: D3D9 : RenderSystem Option: Resource Creation Policy = Create on all devices
+16:50:00: D3D9 : RenderSystem Option: Use Multihead = Auto
+16:50:00: D3D9 : RenderSystem Option: VSync = No
+16:50:00: D3D9 : RenderSystem Option: VSync Interval = 1
+16:50:00: D3D9 : RenderSystem Option: Video Mode = 1680 x 1050 @ 32-bit colour
+16:50:00: D3D9 : RenderSystem Option: sRGB Gamma Conversion = No
+16:50:02: CPU Identifier & Features
+16:50:02: -------------------------
+16:50:02:  *   CPU ID: GenuineIntel: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz
+16:50:02:  *      SSE: yes
+16:50:02:  *     SSE2: yes
+16:50:02:  *     SSE3: yes
+16:50:02:  *      MMX: yes
+16:50:02:  *   MMXEXT: yes
+16:50:02:  *    3DNOW: no
+16:50:02:  * 3DNOWEXT: no
+16:50:02:  *     CMOV: yes
+16:50:02:  *      TSC: yes
+16:50:02:  *      FPU: yes
+16:50:02:  *      PRO: yes
+16:50:02:  *       HT: no
+16:50:02: -------------------------
+16:50:02: D3D9 : Subsystem Initialising
+16:50:02: Registering ResourceManager for type Texture
+16:50:02: Registering ResourceManager for type GpuProgram
+16:50:02: D3D9RenderSystem::_createRenderWindow "TutorialApplication Render Window", 1680x1050 windowed  miscParams: FSAA=0 FSAAHint= colourDepth=32 gamma=false monitorIndex=0 useNVPerfHUD=false vsync=false vsyncInterval=1 
+16:50:02: D3D9 : Created D3D9 Rendering Window 'TutorialApplication Render Window' : 1680x1001, 32bpp
+16:50:02: D3D9 : WARNING - disabling VSync in windowed mode can cause timing issues at lower frame rates, turn VSync on if you observe this problem.
+16:50:02: D3D9: Vertex texture format supported - PF_A8R8G8B8
+16:50:02: D3D9: Vertex texture format supported - PF_B8G8R8A8
+16:50:02: D3D9: Vertex texture format supported - PF_FLOAT16_RGB
+16:50:02: D3D9: Vertex texture format supported - PF_FLOAT16_RGBA
+16:50:02: D3D9: Vertex texture format supported - PF_FLOAT32_RGB
+16:50:02: D3D9: Vertex texture format supported - PF_FLOAT32_RGBA
+16:50:02: D3D9: Vertex texture format supported - PF_R8G8B8A8
+16:50:02: D3D9: Vertex texture format supported - PF_DEPTH
+16:50:02: D3D9: Vertex texture format supported - PF_FLOAT16_R
+16:50:02: D3D9: Vertex texture format supported - PF_FLOAT32_R
+16:50:02: D3D9: Vertex texture format supported - PF_FLOAT16_GR
+16:50:02: D3D9: Vertex texture format supported - PF_FLOAT32_GR
+16:50:02: D3D9: Vertex texture format supported - PF_PVRTC_RGB2
+16:50:02: D3D9: Vertex texture format supported - PF_PVRTC_RGBA2
+16:50:02: D3D9: Vertex texture format supported - PF_PVRTC_RGB4
+16:50:02: D3D9: Vertex texture format supported - PF_PVRTC_RGBA4
+16:50:02: D3D9: Vertex texture format supported - PF_PVRTC2_2BPP
+16:50:02: D3D9: Vertex texture format supported - PF_PVRTC2_4BPP
+16:50:02: D3D9: Vertex texture format supported - PF_R11G11B10_FLOAT
+16:50:02: D3D9: Vertex texture format supported - PF_R8_UINT
+16:50:02: D3D9: Vertex texture format supported - PF_R8G8_UINT
+16:50:02: D3D9: Vertex texture format supported - PF_R8G8B8_UINT
+16:50:02: D3D9: Vertex texture format supported - PF_R8G8B8A8_UINT
+16:50:02: D3D9: Vertex texture format supported - PF_R16_UINT
+16:50:02: D3D9: Vertex texture format supported - PF_R16G16_UINT
+16:50:02: D3D9: Vertex texture format supported - PF_R16G16B16_UINT
+16:50:02: D3D9: Vertex texture format supported - PF_R16G16B16A16_UINT
+16:50:02: D3D9: Vertex texture format supported - PF_R32_UINT
+16:50:02: D3D9: Vertex texture format supported - PF_R32G32_UINT
+16:50:02: D3D9: Vertex texture format supported - PF_R32G32B32_UINT
+16:50:02: D3D9: Vertex texture format supported - PF_R32G32B32A32_UINT
+16:50:02: D3D9: Vertex texture format supported - PF_R8_SINT
+16:50:02: D3D9: Vertex texture format supported - PF_R8G8_SINT
+16:50:02: D3D9: Vertex texture format supported - PF_R8G8B8_SINT
+16:50:02: D3D9: Vertex texture format supported - PF_R8G8B8A8_SINT
+16:50:02: D3D9: Vertex texture format supported - PF_R16_SINT
+16:50:02: D3D9: Vertex texture format supported - PF_R16G16_SINT
+16:50:02: D3D9: Vertex texture format supported - PF_R16G16B16_SINT
+16:50:02: D3D9: Vertex texture format supported - PF_R16G16B16A16_SINT
+16:50:02: D3D9: Vertex texture format supported - PF_R32_SINT
+16:50:02: D3D9: Vertex texture format supported - PF_R32G32_SINT
+16:50:02: D3D9: Vertex texture format supported - PF_R32G32B32_SINT
+16:50:02: D3D9: Vertex texture format supported - PF_R32G32B32A32_SINT
+16:50:02: D3D9: Vertex texture format supported - PF_R9G9B9E5_SHAREDEXP
+16:50:02: D3D9: Vertex texture format supported - PF_BC4_UNORM
+16:50:02: D3D9: Vertex texture format supported - PF_BC4_SNORM
+16:50:02: D3D9: Vertex texture format supported - PF_BC5_UNORM
+16:50:02: D3D9: Vertex texture format supported - PF_BC5_SNORM
+16:50:02: D3D9: Vertex texture format supported - PF_BC6H_UF16
+16:50:02: D3D9: Vertex texture format supported - PF_BC6H_SF16
+16:50:02: D3D9: Vertex texture format supported - PF_BC7_UNORM
+16:50:02: D3D9: Vertex texture format supported - PF_BC7_UNORM_SRGB
+16:50:02: D3D9: Vertex texture format supported - PF_R8
+16:50:02: D3D9: Vertex texture format supported - PF_RG8
+16:50:02: D3D9: Vertex texture format supported - PF_R8_SNORM
+16:50:02: D3D9: Vertex texture format supported - PF_R8G8_SNORM
+16:50:02: D3D9: Vertex texture format supported - PF_R8G8B8_SNORM
+16:50:02: D3D9: Vertex texture format supported - PF_R8G8B8A8_SNORM
+16:50:02: D3D9: Vertex texture format supported - PF_R16_SNORM
+16:50:02: D3D9: Vertex texture format supported - PF_R16G16_SNORM
+16:50:02: D3D9: Vertex texture format supported - PF_R16G16B16_SNORM
+16:50:02: D3D9: Vertex texture format supported - PF_R16G16B16A16_SNORM
+16:50:02: D3D9: Vertex texture format supported - PF_ETC1_RGB8
+16:50:02: D3D9: Vertex texture format supported - PF_ETC2_RGB8
+16:50:02: D3D9: Vertex texture format supported - PF_ETC2_RGBA8
+16:50:02: D3D9: Vertex texture format supported - PF_ETC2_RGB8A1
+16:50:02: D3D9: Vertex texture format supported - PF_ATC_RGB
+16:50:02: D3D9: Vertex texture format supported - PF_ATC_RGBA_EXPLICIT_ALPHA
+16:50:02: D3D9: Vertex texture format supported - PF_ATC_RGBA_INTERPOLATED_ALPHA
+16:50:02: RenderSystem capabilities
+16:50:02: -------------------------
+16:50:02: RenderSystem Name: Direct3D9 Rendering Subsystem
+16:50:02: GPU Vendor: nvidia
+16:50:02: Device Name: Monitor-1-NVIDIA GeForce GT 530
+16:50:02: Driver Version: 9.18.13.1106
+16:50:02:  * Fixed function pipeline: yes
+16:50:02:  * Hardware generation of mipmaps: yes
+16:50:02:  * Texture blending: yes
+16:50:02:  * Anisotropic texture filtering: yes
+16:50:02:  * Dot product texture operation: yes
+16:50:02:  * Cube mapping: yes
+16:50:02:  * Hardware stencil buffer: yes
+16:50:02:    - Stencil depth: 8
+16:50:02:    - Two sided stencil support: yes
+16:50:02:    - Wrap stencil values: yes
+16:50:02:  * Hardware vertex / index buffers: yes
+16:50:02:  * Vertex programs: yes
+16:50:02:  * Number of floating-point constants for vertex programs: 256
+16:50:02:  * Number of integer constants for vertex programs: 16
+16:50:02:  * Number of boolean constants for vertex programs: 16
+16:50:02:  * Fragment programs: yes
+16:50:02:  * Number of floating-point constants for fragment programs: 224
+16:50:02:  * Number of integer constants for fragment programs: 16
+16:50:02:  * Number of boolean constants for fragment programs: 16
+16:50:02:  * Geometry programs: no
+16:50:02:  * Number of floating-point constants for geometry programs: 52428
+16:50:02:  * Number of integer constants for geometry programs: 52428
+16:50:02:  * Number of boolean constants for geometry programs: 52428
+16:50:02:  * Tesselation Hull programs: no
+16:50:02:  * Number of floating-point constants for tesselation hull programs: 52428
+16:50:02:  * Number of integer constants for tesselation hull programs: 52428
+16:50:02:  * Number of boolean constants for tesselation hull programs: 52428
+16:50:02:  * Tesselation Domain programs: no
+16:50:02:  * Number of floating-point constants for tesselation domain programs: 52428
+16:50:02:  * Number of integer constants for tesselation domain programs: 1025
+16:50:02:  * Number of boolean constants for tesselation domain programs: 1025
+16:50:02:  * Compute programs: no
+16:50:02:  * Number of floating-point constants for compute programs: 124
+16:50:02:  * Number of integer constants for compute programs: 0
+16:50:02:  * Number of boolean constants for compute programs: 128
+16:50:02:  * Supported Shader Profiles: hlsl ps_1_1 ps_1_2 ps_1_3 ps_1_4 ps_2_0 ps_2_a ps_2_b ps_2_x ps_3_0 vs_1_1 vs_2_0 vs_2_a vs_2_x vs_3_0
+16:50:02:  * Texture Compression: yes
+16:50:02:    - DXT: yes
+16:50:02:    - VTC: no
+16:50:02:    - PVRTC: no
+16:50:02:    - ATC: no
+16:50:02:    - ETC1: no
+16:50:02:    - ETC2: no
+16:50:02:    - BC4/BC5: no
+16:50:02:    - BC6H/BC7: no
+16:50:02:  * Scissor Rectangle: yes
+16:50:02:  * Hardware Occlusion Query: yes
+16:50:02:  * User clip planes: yes
+16:50:02:  * VET_UBYTE4 vertex element type: yes
+16:50:02:  * Infinite far plane projection: yes
+16:50:02:  * Hardware render-to-texture: yes
+16:50:02:  * Floating point textures: yes
+16:50:02:  * Non-power-of-two textures: yes
+16:50:02:  * 1d textures: yes
+16:50:02:  * Volume textures: yes
+16:50:02:  * Multiple Render Targets: 4
+16:50:02:    - With different bit depths: yes
+16:50:02:  * Point Sprites: yes
+16:50:02:  * Extended point parameters: yes
+16:50:02:  * Max Point Size: 8192
+16:50:02:  * Vertex texture fetch: yes
+16:50:02:  * Number of world matrices: 0
+16:50:02:  * Number of texture units: 8
+16:50:02:  * Stencil buffer depth: 8
+16:50:02:  * Number of vertex blend matrices: 0
+16:50:02:    - Max vertex textures: 4
+16:50:02:    - Vertex textures shared: no
+16:50:02:  * Render to Vertex Buffer : no
+16:50:02:  * Hardware Atomic Counters: no
+16:50:02:  * DirectX per stage constants: yes
+16:50:02: ***************************************
+16:50:02: *** D3D9 : Subsystem Initialised OK ***
+16:50:02: ***************************************
+16:50:02: DefaultWorkQueue('Root') initialising on thread 24e0.
+16:50:02: DefaultWorkQueue('Root')::WorkerFunc - thread 1564 starting.
+16:50:02: DefaultWorkQueue('Root')::WorkerFunc - thread 2588 starting.
+16:50:02: DefaultWorkQueue('Root')::WorkerFunc - thread 24bc starting.
+16:50:02: DefaultWorkQueue('Root')::WorkerFunc - thread 15d8 starting.
+16:50:02: Particle Renderer Type 'billboard' registered
+16:50:02: SceneManagerFactory for type 'BspSceneManager' registered.
+16:50:02: Registering ResourceManager for type BspLevel
+16:50:02: SceneManagerFactory for type 'PCZSceneManager' registered.
+16:50:02: MovableObjectFactory for type 'PCZLight' registered.
+16:50:02: MovableObjectFactory for type 'Portal' registered.
+16:50:02: MovableObjectFactory for type 'AntiPortal' registered.
+16:50:02: PCZone Factory Type 'ZoneType_Octree' registered
+16:50:02: SceneManagerFactory for type 'OctreeSceneManager' registered.
+16:50:02: OverlayElementFactory for type Panel registered.
+16:50:02: OverlayElementFactory for type BorderPanel registered.
+16:50:02: OverlayElementFactory for type TextArea registered.
+16:50:02: Registering ResourceManager for type Font
+16:50:02: Parsing scripts for resource group Autodetect
+16:50:02: Finished parsing scripts for resource group Autodetect
+16:50:02: Creating resources for group Autodetect
+16:50:02: All done
+16:50:02: Parsing scripts for resource group Essential
+16:50:02: Parsing script SdkTrays.material
+16:50:02: Parsing script SdkTrays.fontdef
+16:50:02: Parsing script SdkTrays.overlay
+16:50:02: Bad element attribute line: '# you can offset the image to change the cursor "hotspot"' for element SdkTrays/Cursor in overlay 
+16:50:02: Texture: sdk_cursor.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) Internal format is PF_A8R8G8B8,32x32x1.
+16:50:02: Texture: sdk_tray.png: Loading 1 faces(PF_A8R8G8B8,64x64x1) Internal format is PF_A8R8G8B8,64x64x1.
+16:50:02: Texture: sdk_button_up.png: Loading 1 faces(PF_A8R8G8B8,128x32x1) Internal format is PF_A8R8G8B8,128x32x1.
+16:50:02: Texture: sdk_text_box.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) Internal format is PF_A8R8G8B8,32x32x1.
+16:50:02: Texture: sdk_mini_tray.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) Internal format is PF_A8R8G8B8,32x32x1.
+16:50:02: Texture: sdk_track.png: Loading 1 faces(PF_A8R8G8B8,16x32x1) Internal format is PF_A8R8G8B8,16x32x1.
+16:50:02: Texture: sdk_handle.png: Loading 1 faces(PF_A8R8G8B8,16x16x1) Internal format is PF_A8R8G8B8,16x16x1.
+16:50:02: Texture: sdk_mini_text_box.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) Internal format is PF_A8R8G8B8,32x32x1.
+16:50:02: Texture: sdk_label.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) Internal format is PF_A8R8G8B8,32x32x1.
+16:50:02: Texture: sdk_separator.png: Loading 1 faces(PF_A8R8G8B8,64x16x1) Internal format is PF_A8R8G8B8,64x16x1.
+16:50:02: Texture: sdk_logo.png: Loading 1 faces(PF_A8R8G8B8,128x64x1) Internal format is PF_A8R8G8B8,128x64x1.
+16:50:02: Texture: sdk_shade.png: Loading 1 faces(PF_A8R8G8B8,64x48x1) with 5 generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x48x1.
+16:50:02: Texture: sdk_frame.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) Internal format is PF_A8R8G8B8,32x32x1.
+16:50:02: Texture: sdk_mini_text_box_over.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) Internal format is PF_A8R8G8B8,32x32x1.
+16:50:02: Texture: sdk_pulse.png: Loading 1 faces(PF_R8G8B8,8x1x1) Internal format is PF_X8R8G8B8,8x1x1.
+16:50:02: Finished parsing scripts for resource group Essential
+16:50:02: Creating resources for group Essential
+16:50:02: All done
+16:50:02: Parsing scripts for resource group General
+16:50:02: Parsing script 00J.material
+16:50:02: Parsing script 00O.material
+16:50:02: Parsing script 00V.material
+16:50:02: Parsing script 00VI.material
+16:50:02: Parsing script 01J.material
+16:50:02: Parsing script 01O.material
+16:50:02: Parsing script 01V.material
+16:50:02: Parsing script 01VI.material
+16:50:02: Parsing script 02J.material
+16:50:02: Parsing script 02O.material
+16:50:02: Parsing script 02V.material
+16:50:02: Parsing script 02VI.material
+16:50:02: Parsing script 03J.material
+16:50:02: Parsing script 03O.material
+16:50:02: Parsing script 03V.material
+16:50:02: Parsing script 03VI.material
+16:50:02: Parsing script 04J.material
+16:50:02: Parsing script 04O.material
+16:50:02: Parsing script 04V.material
+16:50:02: Parsing script 04VI.material
+16:50:02: Parsing script 11J.material
+16:50:02: Parsing script 11O.material
+16:50:02: Parsing script 11V.material
+16:50:02: Parsing script 11VI.material
+16:50:02: Parsing script 12J.material
+16:50:02: Parsing script 12O.material
+16:50:03: Parsing script 12V.material
+16:50:03: Parsing script 12VI.material
+16:50:03: Parsing script 13J.material
+16:50:03: Parsing script 13O.material
+16:50:03: Parsing script 13V.material
+16:50:03: Parsing script 13VI.material
+16:50:03: Parsing script 14J.material
+16:50:03: Parsing script 14O.material
+16:50:03: Parsing script 14V.material
+16:50:03: Parsing script 14VI.material
+16:50:03: Parsing script 22J.material
+16:50:03: Parsing script 22O.material
+16:50:03: Parsing script 22V.material
+16:50:03: Parsing script 22VI.material
+16:50:03: Parsing script 23J.material
+16:50:03: Parsing script 23O.material
+16:50:03: Parsing script 23V.material
+16:50:03: Parsing script 23VI.material
+16:50:03: Parsing script 24J.material
+16:50:03: Parsing script 24O.material
+16:50:03: Parsing script 24V.material
+16:50:03: Parsing script 24VI.material
+16:50:03: Parsing script 33J.material
+16:50:03: Parsing script 33O.material
+16:50:03: Parsing script 33V.material
+16:50:03: Parsing script 33VI.material
+16:50:03: Parsing script 34J.material
+16:50:03: Parsing script 34O.material
+16:50:03: Parsing script 34V.material
+16:50:03: Parsing script 34VI.material
+16:50:03: Parsing script 44J.material
+16:50:03: Parsing script 44O.material
+16:50:03: Parsing script 44V.material
+16:50:03: Parsing script 44VI.material
+16:50:03: Parsing script additionalTextures.material
+16:50:03: Parsing script Cube.material
+16:50:03: Parsing script Ogre.material
+16:50:03: Parsing script ZingaJ.material
+16:50:03: Parsing script ZingaO.material
+16:50:03: Parsing script ZingaV.material
+16:50:03: Parsing script ZingaVI.material
+16:50:03: Finished parsing scripts for resource group General
+16:50:03: Creating resources for group General
+16:50:03: All done
+16:50:03: Parsing scripts for resource group Internal
+16:50:03: Finished parsing scripts for resource group Internal
+16:50:03: Creating resources for group Internal
+16:50:03: All done
+16:50:03: *** Initializing OIS ***
+16:50:03: Font SdkTrays/Caption using texture size 512x256
+16:50:03: Info: Freetype returned null for character 160 in font SdkTrays/Caption
+16:50:03: Texture: SdkTrays/CaptionTexture: Loading 1 faces(PF_BYTE_LA,512x256x1) with 0 generated mipmaps from Image. Internal format is PF_BYTE_LA,512x256x1.
+16:50:03: Font SdkTrays/Value using texture size 512x256
+16:50:03: Info: Freetype returned null for character 127 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 128 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 129 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 130 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 131 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 132 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 133 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 134 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 135 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 136 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 137 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 138 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 139 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 140 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 141 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 142 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 143 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 144 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 145 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 146 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 147 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 148 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 149 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 150 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 151 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 152 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 153 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 154 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 155 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 156 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 157 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 158 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 159 in font SdkTrays/Value
+16:50:03: Info: Freetype returned null for character 160 in font SdkTrays/Value
+16:50:03: Texture: SdkTrays/ValueTexture: Loading 1 faces(PF_BYTE_LA,512x256x1) with 0 generated mipmaps from Image. Internal format is PF_BYTE_LA,512x256x1.
+16:50:04: Texture: sdk_button_over.png: Loading 1 faces(PF_A8R8G8B8,128x32x1) Internal format is PF_A8R8G8B8,128x32x1.
+16:50:05: Texture: sdk_button_down.png: Loading 1 faces(PF_A8R8G8B8,128x32x1) Internal format is PF_A8R8G8B8,128x32x1.
+16:50:05: ZingaMinoApp: We hit newGameBtn
+16:50:06: ZingaMinoApp: We hit startGamebtn
+16:50:06: Mesh: Loading Cube.mesh.
+16:50:06: WARNING: Cube.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:06: Texture: board.jpg: Loading 1 faces(PF_R8G8B8,720x720x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,720x720x1.
+16:50:07: Texture: N012.jpg: Loading 1 faces(PF_R8G8B8,96x96x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,96x96x1.
+16:50:07: GameFrameListener::mouseMoved
+16:50:07: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:08: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:09: GameFrameListener::mouseMoved
+16:50:10: GameFrameListener::mouseMoved
+16:50:10: GameFrameListener::mouseMoved
+16:50:10: GameFrameListener::mouseMoved
+16:50:10: GameFrameListener::mouseMoved
+16:50:10: GameFrameListener::mouseMoved
+16:50:10: GameFrameListener::mouseMoved
+16:50:10: GameFrameListener::mouseMoved
+16:50:10: GameFrameListener::mouseMoved
+16:50:10: GameFrameListener::mouseMoved
+16:50:10: GameFrameListener::mouseMoved
+16:50:10: GameFrameListener::mouseMoved
+16:50:10: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:13: GameFrameListener::mouseMoved
+16:50:33: GameFrameListener::mouseMoved
+16:50:33: GameFrameListener::mouseMoved
+16:50:33: GameFrameListener::mouseMoved
+16:50:33: GameFrameListener::mouseMoved
+16:50:33: GameFrameListener::mouseMoved
+16:50:33: GameFrameListener::mouseMoved
+16:50:33: GameFrameListener::mouseMoved
+16:50:33: GameFrameListener::mouseMoved
+16:50:33: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: GameFrameListener::mouseMoved
+16:50:34: ZingaMinoApp: We hit Start
+16:50:34: GameManaget: We hit Start
+16:50:34: Mesh: Loading ZingaV.mesh.
+16:50:34: WARNING: ZingaV.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:34: Texture: Domino.JPG: Loading 1 faces(PF_R8G8B8,50x50x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,50x50x1.
+16:50:34: Texture: Vert.JPG: Loading 1 faces(PF_R8G8B8,50x50x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,50x50x1.
+16:50:34: Texture: ZingaV.jpg: Loading 1 faces(PF_R8G8B8,200x150x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,200x150x1.
+16:50:34: Mesh: Loading 34J.mesh.
+16:50:34: WARNING: 34J.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:34: Texture: Jaune.JPG: Loading 1 faces(PF_R8G8B8,50x50x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,50x50x1.
+16:50:35: GameFrameListener::mouseMoved
+16:50:35: GameFrameListener::mouseMoved
+16:50:35: GameFrameListener::mouseMoved
+16:50:35: GameFrameListener::mouseMoved
+16:50:43: GameFrameListener::mouseMoved
+16:50:43: GameFrameListener::mouseMoved
+16:50:43: GameFrameListener::mouseMoved
+16:50:43: GameFrameListener::mouseMoved
+16:50:43: GameFrameListener::mouseMoved
+16:50:43: GameFrameListener::mouseMoved
+16:50:43: GameFrameListener Line 75
+16:50:43: GameFrameListener::mouseMoved
+16:50:43: GameFrameListener::mouseMoved
+16:50:43: GameFrameListener::mouseMoved
+16:50:43: GameFrameListener::mouseMoved
+16:50:43: GameFrameListener::mouseMoved
+16:50:43: GameFrameListener::mouseMoved
+16:50:43: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:44: GameFrameListener::mouseMoved
+16:50:45: ZingaMinoApp: We hit TirerPieces
+16:50:45: GameManaget: We hit TirerPieces
+16:50:45: Mesh: Loading 14VI.mesh.
+16:50:45: WARNING: 14VI.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:45: Texture: Violet.JPG: Loading 1 faces(PF_R8G8B8,50x50x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,50x50x1.
+16:50:45: Mesh: Loading 03VI.mesh.
+16:50:45: WARNING: 03VI.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:45: Mesh: Loading 22J.mesh.
+16:50:45: WARNING: 22J.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:45: Mesh: Loading 03V.mesh.
+16:50:45: WARNING: 03V.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:45: Mesh: Loading 14O.mesh.
+16:50:45: WARNING: 14O.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:45: Texture: Orange.JPG: Loading 1 faces(PF_R8G8B8,50x50x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,50x50x1.
+16:50:45: Mesh: Loading 23O.mesh.
+16:50:45: WARNING: 23O.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:45: Mesh: Loading 02V.mesh.
+16:50:45: WARNING: 02V.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:45: Mesh: Loading 02O.mesh.
+16:50:45: WARNING: 02O.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:45: Mesh: Loading 01VI.mesh.
+16:50:45: WARNING: 01VI.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:45: Mesh: Loading 44V.mesh.
+16:50:45: WARNING: 44V.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:45: Mesh: Loading 02J.mesh.
+16:50:45: WARNING: 02J.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:45: Mesh: Loading 00V.mesh.
+16:50:45: WARNING: 00V.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:45: Mesh: Loading 34O.mesh.
+16:50:45: WARNING: 34O.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:45: Mesh: Loading 11V.mesh.
+16:50:45: WARNING: 11V.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:45: Mesh: Loading 13V.mesh.
+16:50:45: WARNING: 13V.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:48: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:49: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:50: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:51: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mousePressed
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:52: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseReleased
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:53: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:54: GameFrameListener::mouseMoved
+16:50:55: GameFrameListener::mouseMoved
+16:50:55: GameFrameListener::mouseMoved
+16:50:55: GameFrameListener::mouseMoved
+16:50:55: GameFrameListener::mouseMoved
+16:50:55: GameFrameListener::mouseMoved
+16:50:55: GameFrameListener::mouseMoved
+16:50:55: GameFrameListener::mouseMoved
+16:50:55: GameFrameListener::mouseMoved
+16:50:55: GameFrameListener::mouseMoved
+16:50:55: GameFrameListener::mouseMoved
+16:50:55: GameFrameListener::mouseMoved
+16:50:55: GameFrameListener::mouseMoved
+16:50:55: GameFrameListener::mouseMoved
+16:50:55: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:56: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mousePressed
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:57: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:58: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseReleased
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:50:59: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:00: GameFrameListener::mouseMoved
+16:51:01: GameFrameListener::mouseMoved
+16:51:01: GameFrameListener::mouseMoved
+16:51:01: GameFrameListener::mouseMoved
+16:51:01: GameFrameListener::mouseMoved
+16:51:01: GameFrameListener::mouseMoved
+16:51:01: GameFrameListener::mouseMoved
+16:51:01: GameFrameListener::mouseMoved
+16:51:01: GameFrameListener::mouseMoved
+16:51:01: GameFrameListener::mouseMoved
+16:51:01: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:02: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:03: GameFrameListener::mouseMoved
+16:51:04: GameFrameListener::mouseMoved
+16:51:04: GameFrameListener::mouseMoved
+16:51:04: GameFrameListener::mouseMoved
+16:51:04: GameFrameListener::mouseMoved
+16:51:04: GameFrameListener::mouseMoved
+16:51:04: GameFrameListener::mouseMoved
+16:51:04: GameFrameListener::mouseMoved
+16:51:04: GameFrameListener::mouseMoved
+16:51:04: GameFrameListener::mouseMoved
+16:51:04: GameFrameListener::mouseMoved
+16:51:04: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:05: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:06: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:07: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:08: GameFrameListener::mouseMoved
+16:51:09: ZingaMinoApp: We hit Creuser
+16:51:09: GameManaget: We hit Creuser
+16:51:09: Mesh: Loading 14J.mesh.
+16:51:09: WARNING: 14J.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:09: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:10: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:11: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:12: GameFrameListener::mouseMoved
+16:51:13: ZingaMinoApp: We hit Creuser
+16:51:13: GameManaget: We hit Creuser
+16:51:13: Mesh: Loading 44VI.mesh.
+16:51:13: WARNING: 44VI.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:13: GameFrameListener::mouseMoved
+16:51:14: GameFrameListener::mouseMoved
+16:51:14: GameFrameListener::mouseMoved
+16:51:14: GameFrameListener::mouseMoved
+16:51:14: GameFrameListener::mouseMoved
+16:51:14: GameFrameListener::mouseMoved
+16:51:14: GameFrameListener::mouseMoved
+16:51:14: GameFrameListener::mouseMoved
+16:51:14: GameFrameListener::mouseMoved
+16:51:14: GameFrameListener::mouseMoved
+16:51:14: GameFrameListener::mouseMoved
+16:51:14: GameFrameListener::mouseMoved
+16:51:14: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:15: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:16: GameFrameListener::mouseMoved
+16:51:17: ZingaMinoApp: We hit Creuser
+16:51:17: GameManaget: We hit Creuser
+16:51:17: Mesh: Loading 04O.mesh.
+16:51:17: WARNING: 04O.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:17: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:18: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: ZingaMinoApp: We hit Creuser
+16:51:19: GameManaget: We hit Creuser
+16:51:19: Mesh: Loading 13J.mesh.
+16:51:19: WARNING: 13J.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:19: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:20: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:21: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:22: GameFrameListener::mouseMoved
+16:51:23: ZingaMinoApp: We hit Creuser
+16:51:23: GameManaget: We hit Creuser
+16:51:23: Mesh: Loading ZingaVI.mesh.
+16:51:23: WARNING: ZingaVI.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:23: Texture: ZingaVI.jpg: Loading 1 faces(PF_R8G8B8,200x150x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,200x150x1.
+16:51:23: GameFrameListener::mouseMoved
+16:51:23: GameFrameListener::mouseMoved
+16:51:23: GameFrameListener::mouseMoved
+16:51:23: GameFrameListener::mouseMoved
+16:51:23: GameFrameListener::mouseMoved
+16:51:23: GameFrameListener::mouseMoved
+16:51:23: GameFrameListener::mouseMoved
+16:51:24: GameFrameListener::mouseMoved
+16:51:24: GameFrameListener::mouseMoved
+16:51:24: ZingaMinoApp: We hit Creuser
+16:51:24: GameManaget: We hit Creuser
+16:51:24: Mesh: Loading 44O.mesh.
+16:51:24: WARNING: 44O.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:25: GameFrameListener::mouseMoved
+16:51:25: GameFrameListener::mouseMoved
+16:51:25: GameFrameListener::mouseMoved
+16:51:25: GameFrameListener::mouseMoved
+16:51:25: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:26: GameFrameListener::mouseMoved
+16:51:27: GameFrameListener::mouseMoved
+16:51:27: GameFrameListener::mouseMoved
+16:51:27: GameFrameListener::mouseMoved
+16:51:27: GameFrameListener::mouseMoved
+16:51:27: GameFrameListener::mouseMoved
+16:51:27: GameFrameListener::mouseMoved
+16:51:27: GameFrameListener::mouseMoved
+16:51:27: GameFrameListener::mouseMoved
+16:51:27: GameFrameListener::mouseMoved
+16:51:27: ZingaMinoApp: We hit Creuser
+16:51:27: GameManaget: We hit Creuser
+16:51:27: Mesh: Loading 01V.mesh.
+16:51:27: WARNING: 01V.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:29: ZingaMinoApp: We hit Creuser
+16:51:29: GameManaget: We hit Creuser
+16:51:29: Mesh: Loading 12O.mesh.
+16:51:29: WARNING: 12O.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:30: GameFrameListener::mouseMoved
+16:51:31: GameFrameListener::mouseMoved
+16:51:31: GameFrameListener::mouseMoved
+16:51:31: GameFrameListener::mouseMoved
+16:51:31: GameFrameListener::mouseMoved
+16:51:31: GameFrameListener::mouseMoved
+16:51:31: GameFrameListener::mouseMoved
+16:51:31: GameFrameListener::mouseMoved
+16:51:31: GameFrameListener::mouseMoved
+16:51:31: ZingaMinoApp: We hit Creuser
+16:51:31: GameManaget: We hit Creuser
+16:51:31: Mesh: Loading 24J.mesh.
+16:51:31: WARNING: 24J.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:33: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mousePressed
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:34: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseReleased
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:35: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:38: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mouseMoved
+16:51:39: GameFrameListener::mousePressed
+16:51:39: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:40: GameFrameListener::mouseMoved
+16:51:41: GameFrameListener::mouseReleased
+16:51:41: Mesh: Loading ZingaJ.mesh.
+16:51:41: WARNING: ZingaJ.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:41: Texture: ZingaJ.jpg: Loading 1 faces(PF_R8G8B8,200x150x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,200x150x1.
+16:51:41: Mesh: Loading 24O.mesh.
+16:51:41: WARNING: 24O.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:41: Mesh: Loading 34VI.mesh.
+16:51:41: WARNING: 34VI.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:41: Mesh: Loading 23V.mesh.
+16:51:41: WARNING: 23V.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:41: Mesh: Loading 13VI.mesh.
+16:51:41: WARNING: 13VI.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:41: Mesh: Loading 33J.mesh.
+16:51:41: WARNING: 33J.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:41: Mesh: Loading 02VI.mesh.
+16:51:41: WARNING: 02VI.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:41: GameFrameListener::mouseMoved
+16:51:41: GameFrameListener::mouseMoved
+16:51:41: GameFrameListener::mouseMoved
+16:51:41: GameFrameListener::mouseMoved
+16:51:41: GameFrameListener::mouseMoved
+16:51:41: GameFrameListener::mouseMoved
+16:51:41: GameFrameListener::mouseMoved
+16:51:41: GameFrameListener::mouseMoved
+16:51:41: GameFrameListener::mouseMoved
+16:51:41: GameFrameListener::mouseMoved
+16:51:41: GameFrameListener::mouseMoved
+16:51:41: GameFrameListener::mouseMoved
+16:51:41: GameFrameListener::mouseMoved
+16:51:41: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:43: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:44: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:45: GameFrameListener::mouseMoved
+16:51:46: GameFrameListener::mouseMoved
+16:51:46: GameFrameListener::mouseMoved
+16:51:46: GameFrameListener::mouseMoved
+16:51:46: GameFrameListener::mouseMoved
+16:51:46: GameFrameListener::mouseMoved
+16:51:46: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:47: GameFrameListener::mouseMoved
+16:51:49: GameFrameListener::mouseMoved
+16:51:49: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:50: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mousePressed
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:51: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:52: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseReleased
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:53: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:54: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:55: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:56: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: ZingaMinoApp: We hit Creuser
+16:51:57: GameManaget: We hit Creuser
+16:51:57: Mesh: Loading 01O.mesh.
+16:51:57: WARNING: 01O.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:57: GameFrameListener::mouseMoved
+16:51:58: ZingaMinoApp: We hit Creuser
+16:51:58: GameManaget: We hit Creuser
+16:51:58: Mesh: Loading 22V.mesh.
+16:51:58: WARNING: 22V.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:51:58: GameFrameListener::mouseMoved
+16:51:58: GameFrameListener::mouseMoved
+16:51:58: GameFrameListener::mouseMoved
+16:51:58: GameFrameListener::mouseMoved
+16:51:58: GameFrameListener::mouseMoved
+16:51:58: GameFrameListener::mouseMoved
+16:51:58: GameFrameListener::mouseMoved
+16:51:58: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:51:59: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: ZingaMinoApp: We hit Creuser
+16:52:00: GameManaget: We hit Creuser
+16:52:00: Mesh: Loading 44J.mesh.
+16:52:00: WARNING: 44J.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:52:00: GameFrameListener::mouseMoved
+16:52:00: GameFrameListener::mouseMoved
+16:52:03: GameFrameListener::mouseMoved
+16:52:03: GameFrameListener::mouseMoved
+16:52:03: GameFrameListener::mouseMoved
+16:52:03: GameFrameListener::mouseMoved
+16:52:03: GameFrameListener::mouseMoved
+16:52:03: GameFrameListener::mouseMoved
+16:52:03: GameFrameListener::mouseMoved
+16:52:03: GameFrameListener::mouseMoved
+16:52:03: GameFrameListener::mouseMoved
+16:52:03: GameFrameListener::mouseMoved
+16:52:03: GameFrameListener::mouseMoved
+16:52:03: GameFrameListener::mouseMoved
+16:52:03: GameFrameListener::mouseMoved
+16:52:03: GameFrameListener::mouseMoved
+16:52:03: ZingaMinoApp: We hit Creuser
+16:52:03: GameManaget: We hit Creuser
+16:52:03: Mesh: Loading 03O.mesh.
+16:52:03: WARNING: 03O.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:08: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:09: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: ZingaMinoApp: We hit Creuser
+16:52:10: GameManaget: We hit Creuser
+16:52:10: Mesh: Loading 00O.mesh.
+16:52:10: WARNING: 00O.mesh is an older format ([MeshSerializer_v1.30]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:10: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:11: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mousePressed
+16:52:12: GameFrameListener::mouseMoved
+16:52:12: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:13: GameFrameListener::mouseMoved
+16:52:14: GameFrameListener::mouseMoved
+16:52:14: GameFrameListener::mouseMoved
+16:52:14: GameFrameListener::mouseMoved
+16:52:14: GameFrameListener::mouseMoved
+16:52:14: GameFrameListener::mouseMoved
+16:52:14: GameFrameListener::mouseMoved
+16:52:14: GameFrameListener::mouseMoved
+16:52:14: GameFrameListener::mouseReleased
+16:52:14: GameFrameListener::mouseMoved
+16:52:14: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:15: GameFrameListener::mouseMoved
+16:52:16: GameFrameListener::mouseMoved
+16:52:16: GameFrameListener::mouseMoved
+16:52:16: GameFrameListener::mouseMoved
+16:52:16: GameFrameListener::mouseMoved
+16:52:16: GameFrameListener::mouseMoved
+16:52:16: GameFrameListener::mousePressed
+16:52:16: GameFrameListener::mouseMoved
+16:52:16: GameFrameListener::mouseMoved
+16:52:16: GameFrameListener::mouseMoved
+16:52:16: GameFrameListener::mouseMoved
+16:52:16: GameFrameListener::mouseMoved
+16:52:16: GameFrameListener::mouseMoved
+16:52:16: GameFrameListener::mouseMoved
+16:52:16: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseReleased
+16:52:17: GameFrameListener::mousePressed
+16:52:17: GameFrameListener::mouseReleased
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:17: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mousePressed
+16:52:18: GameFrameListener::mouseMoved
+16:52:18: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:19: GameFrameListener::mouseMoved
+16:52:20: GameFrameListener::mouseReleased
+16:52:20: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:23: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:24: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:25: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:26: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mousePressed
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:27: GameFrameListener::mouseMoved
+16:52:28: GameFrameListener::mouseMoved
+16:52:28: GameFrameListener::mouseMoved
+16:52:28: GameFrameListener::mouseMoved
+16:52:28: GameFrameListener::mouseReleased
+16:52:28: GameFrameListener::mousePressed
+16:52:28: GameFrameListener::mouseReleased
+16:52:28: GameFrameListener::mouseMoved
+16:52:29: GameFrameListener::mouseMoved
+16:52:29: GameFrameListener::mouseMoved
+16:52:29: GameFrameListener::mouseMoved
+16:52:29: GameFrameListener::mouseMoved
+16:52:29: GameFrameListener::mouseMoved
+16:52:29: GameFrameListener::mouseMoved
+16:52:29: GameFrameListener::mouseMoved
+16:52:29: GameFrameListener::mouseMoved
+16:52:29: GameFrameListener::mouseMoved
+16:52:29: GameFrameListener::mouseMoved
+16:52:29: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:31: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:32: GameFrameListener::mouseMoved
+16:52:33: GameFrameListener::mouseMoved
+16:52:33: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:34: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:35: GameFrameListener::mouseMoved
+16:52:36: GameFrameListener::mouseMoved
+16:52:36: GameFrameListener::mouseMoved
+16:52:36: GameFrameListener::mouseMoved
+16:52:36: GameFrameListener::mouseMoved
+16:52:36: GameFrameListener::mouseMoved
+16:52:36: GameFrameListener::mouseMoved
+16:52:38: GameFrameListener::mouseMoved
+16:52:38: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:39: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:53: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:54: GameFrameListener::mouseMoved
+16:52:55: GameFrameListener::mouseMoved
+16:52:55: GameFrameListener::mouseMoved
+16:52:55: GameFrameListener::mouseMoved
+16:52:57: GameFrameListener::mouseMoved
+16:52:57: GameFrameListener::mouseMoved
+16:52:57: GameFrameListener::mouseMoved
+16:52:57: GameFrameListener::mouseMoved
+16:52:57: GameFrameListener::mouseMoved
+16:52:57: GameFrameListener::mouseMoved
+16:52:57: GameFrameListener::mouseMoved
+16:52:57: GameFrameListener::mouseMoved
+16:52:57: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:12: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: GameFrameListener::mouseMoved
+16:53:13: DefaultWorkQueue('Root') shutting down on thread 24e0.
+16:53:13: DefaultWorkQueue('Root')::WorkerFunc - thread 1564 stopped.
+16:53:13: DefaultWorkQueue('Root')::WorkerFunc - thread 24bc stopped.
+16:53:13: DefaultWorkQueue('Root')::WorkerFunc - thread 2588 stopped.
+16:53:13: DefaultWorkQueue('Root')::WorkerFunc - thread 15d8 stopped.
+16:53:13: PCZone Factory Type 'ZoneType_Octree' unregistered
+16:53:13: Unregistering ResourceManager for type BspLevel
+16:53:13: *-*-* OGRE Shutdown
+16:53:13: Unregistering ResourceManager for type Compositor
+16:53:13: Unregistering ResourceManager for type Skeleton
+16:53:13: Unregistering ResourceManager for type Mesh
+16:53:13: Unregistering ResourceManager for type HighLevelGpuProgram
+16:53:13: Uninstalling plugin: Octree Scene Manager
+16:53:13: Plugin successfully uninstalled
+16:53:13: Unloading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\Plugin_OctreeSceneManager_d
+16:53:13: Uninstalling plugin: Octree Zone Factory
+16:53:13: Plugin successfully uninstalled
+16:53:13: Unloading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\Plugin_OctreeZone_d
+16:53:13: Uninstalling plugin: Portal Connected Zone Scene Manager
+16:53:13: Plugin successfully uninstalled
+16:53:13: Unloading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\Plugin_PCZSceneManager_d
+16:53:13: Uninstalling plugin: Cg Program Manager
+16:53:13: Plugin successfully uninstalled
+16:53:13: Unloading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\Plugin_CgProgramManager_d
+16:53:13: Uninstalling plugin: BSP Scene Manager
+16:53:13: Plugin successfully uninstalled
+16:53:13: Unloading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\Plugin_BSPSceneManager_d
+16:53:13: Uninstalling plugin: ParticleFX
+16:53:13: Plugin successfully uninstalled
+16:53:13: Unloading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\Plugin_ParticleFX_d
+16:53:13: Uninstalling plugin: GL RenderSystem
+16:53:13: *** Stopping Win32GL Subsystem ***
+16:53:13: Plugin successfully uninstalled
+16:53:13: Unloading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\RenderSystem_GL_d
+16:53:13: Uninstalling plugin: D3D11 RenderSystem
+16:53:13: D3D11 : Shutting down cleanly.
+16:53:13: D3D11 : Direct3D11 Rendering Subsystem destroyed.
+16:53:13: Plugin successfully uninstalled
+16:53:13: Unloading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\RenderSystem_Direct3D11_d
+16:53:13: Uninstalling plugin: D3D9 RenderSystem
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_cursor.png
+16:53:13: Released D3D9 texture: sdk_cursor.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_tray.png
+16:53:13: Released D3D9 texture: sdk_tray.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_button_up.png
+16:53:13: Released D3D9 texture: sdk_button_up.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_text_box.png
+16:53:13: Released D3D9 texture: sdk_text_box.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_mini_tray.png
+16:53:13: Released D3D9 texture: sdk_mini_tray.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_track.png
+16:53:13: Released D3D9 texture: sdk_track.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_handle.png
+16:53:13: Released D3D9 texture: sdk_handle.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_mini_text_box.png
+16:53:13: Released D3D9 texture: sdk_mini_text_box.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_label.png
+16:53:13: Released D3D9 texture: sdk_label.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_separator.png
+16:53:13: Released D3D9 texture: sdk_separator.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_logo.png
+16:53:13: Released D3D9 texture: sdk_logo.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_shade.png
+16:53:13: Released D3D9 texture: sdk_shade.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_frame.png
+16:53:13: Released D3D9 texture: sdk_frame.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_mini_text_box_over.png
+16:53:13: Released D3D9 texture: sdk_mini_text_box_over.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: sdk_pulse.png
+16:53:13: Released D3D9 texture: sdk_pulse.png
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: SdkTrays/ValueTexture
+16:53:13: Released D3D9 texture: SdkTrays/ValueTexture
+16:53:13: D3D9 device: 0x[06EC3A60] destroy. Releasing D3D9 texture: SdkTrays/CaptionTexture
+16:53:13: Released D3D9 texture: SdkTrays/CaptionTexture
+16:53:13: D3D9 : Shutting down cleanly.
+16:53:13: Unregistering ResourceManager for type Texture
+16:53:13: Unregistering ResourceManager for type GpuProgram
+16:53:13: D3D9 : Direct3D9 Rendering Subsystem destroyed.
+16:53:13: Plugin successfully uninstalled
+16:53:13: Unloading library D:\Open-Source projects\Ogre3D\OgreSDK_vc11_v1-9-0\bin\debug\RenderSystem_Direct3D9_d
+16:53:13: Unregistering ResourceManager for type Material

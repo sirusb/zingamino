@@ -1,0 +1,3 @@
+D:/Repos/ZingaMino/Source/build/CMakeFiles/ALL_BUILD.dir
+D:/Repos/ZingaMino/Source/build/CMakeFiles/OgreApp.dir
+D:/Repos/ZingaMino/Source/build/CMakeFiles/ZERO_CHECK.dir

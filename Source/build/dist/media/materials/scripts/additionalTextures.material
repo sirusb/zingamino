@@ -1,0 +1,13 @@
+material N012
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture N012.jpg
+			}
+		}
+	}
+}
