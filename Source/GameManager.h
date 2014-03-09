@@ -199,7 +199,7 @@ public:
 		/*mTrayMgr->createButton(OgreBites::TL_RIGHT,"Creuser","Dig",250);*/
 		
 		mTrayMgr->createLabel(OgreBites::TL_TOPLEFT,"infoPanel","Scores",250);
-		OgreBites::TextBox* humanScore = mTrayMgr->createTextBox(OgreBites::TL_TOPLEFT,"Inist","Your Score",250,70);
+		OgreBites::TextBox* humanScore = mTrayMgr->createTextBox(OgreBites::TL_TOPLEFT,"Inist","Your Score",250,90);
 		humanScore->setText("00");
 		//StaticText* ZoneNom =(StaticText*) WindowManager::getSingleton().getWindow((utf8*)"Inist");
 		
@@ -209,7 +209,7 @@ public:
 		string num="P1";
 		for(int i=1;i<NbPlayers;i++)
 		{
-			OgreBites::TextBox* ZoneNom = mTrayMgr->createTextBox(OgreBites::TL_TOPLEFT,num,num+" Score",250,70);
+			OgreBites::TextBox* ZoneNom = mTrayMgr->createTextBox(OgreBites::TL_TOPLEFT,num,num+" Score",250,90);
 			//ZoneNom =(StaticText*) WindowManager::getSingleton().getWindow(num);
 			ZoneNom->setText("00");
 			/*ZoneNom->setFrameEnabled(true);

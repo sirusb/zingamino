@@ -18,6 +18,7 @@ protected:
 	bool mShowNewGameMenu;
 	bool mShowGameRule;	
 	GameManager* mGameMgr;
+	std::string rules;
 
 	virtual void createCamera(void){
 		mCamera = mSceneMgr->createCamera("PlayerCam");		
@@ -84,7 +85,7 @@ protected:
 			inputContext.mKeyboard = mKeyboard;
 			mTrayMgr = new OgreBites::SdkTrayManager("InterfaceName", mWindow, inputContext,(OgreBites::SdkTrayListener*) this);								
 
-			mTrayMgr->createLabel(OgreBites::TL_TOP,"GameCaption","Welcome to ZingaMino",Ogre::Real(mWindow->getViewport(0)->getActualWidth()-800));
+			mTrayMgr->createLabel(OgreBites::TL_TOP,"GameCaption","Welcome to ZingaMino",Ogre::Real(mWindow->getViewport(0)->getActualWidth()*0.6));
 			mTrayMgr->showFrameStats(OgreBites::TL_BOTTOMLEFT);						
 			mTrayMgr->showCursor();			
 			Ogre::FontManager::getSingleton().getByName("SdkTrays/Caption")->load();			
@@ -191,8 +192,8 @@ protected:
 	void DisplayGameRules(void){
 		if(mTrayMgr){
 			mTrayMgr->destroyAllWidgetsInTray(OgreBites::TL_CENTER);
-			OgreBites::TextBox* rulestb = mTrayMgr->createTextBox(OgreBites::TL_CENTER,"ruletb","The game rules",300,200);
-			rulestb->appendText("This game is easy to play, just click when it is your turn");
+			OgreBites::TextBox* rulestb = mTrayMgr->createTextBox(OgreBites::TL_CENTER,"ruletb","The game rules",300,200);			
+			rulestb->appendText(rules);
 			mTrayMgr->createButton(OgreBites::TL_CENTER,"faqBtn","OK",300);
 		}
 	}
